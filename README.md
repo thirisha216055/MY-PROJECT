@@ -39,9 +39,12 @@ The AI Interior Design Recommendation System is a smart, ML-powered application 
 4. Recommended items are displayed with dimensions, images, and placement suggestions.
 5. Users can explore furniture placement through interactive 3D plots.
    
-![WhatsApp Image 2025-04-03 at 21 29 47_92c204ab](https://github.com/user-attachments/assets/e8f88e21-c91f-4975-8314-c81d198176ab)
+![WhatsApp Image 2025-04-23 at 10 36 53_9ca3ba90](https://github.com/user-attachments/assets/3cfcd0ad-b2d0-4a45-850b-777d8000a4bd)
 
 
-![training_loss](https://github.com/user-attachments/assets/2d3a2444-2343-4a70-9366-638b6e23fe07)
-![WhatsApp Image 2025-03-06 at 23 22 03_6a51e67a](https://github.com/user-attachments/assets/0557c2ab-af56-47c1-93be-6638eb2af379)
+![WhatsApp Image 2025-04-23 at 10 42 11_194dd7a1](https://github.com/user-attachments/assets/3abddbbe-ff31-481d-9bfa-bdbb5af7bace)
 
+![WhatsApp Image 2025-04-23 at 10 42 36_dab1ba0d](https://github.com/user-attachments/assets/458e774c-80e6-4983-94a3-c4dbb8435eb5)
+
+
+![WhatsApp Image 2025-04-23 at 10 35 55_c0a16b27](https://github.com/user-attachments/assets/65d0a1b8-459a-400e-a8ba-d392fa70ebb2)
